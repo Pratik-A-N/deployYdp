@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/YDP/static/css/main.bc3489c7.css",
+    "main.js": "/YDP/static/js/main.c37f5217.js",
+    "static/js/787.a8fb6b87.chunk.js": "/YDP/static/js/787.a8fb6b87.chunk.js",
+    "static/media/pg1.png": "/YDP/static/media/pg1.74f1c020dc5234e8c357.png",
+    "static/media/homepg.png": "/YDP/static/media/homepg.d3a0bf4bc301c6edc085.png",
+    "static/media/logo2.png": "/YDP/static/media/logo2.9fd73a0b1aab24b70337.png",
+    "static/media/ClashGrotesk-Variable.ttf": "/YDP/static/media/ClashGrotesk-Variable.6eccb344b604e67e2145.ttf",
+    "static/media/leaf10.png": "/YDP/static/media/leaf10.ca3e733c875e36beec4c.png",
+    "static/media/ClashGrotesk-Bold.ttf": "/YDP/static/media/ClashGrotesk-Bold.934ff377893b6b073594.ttf",
+    "static/media/carnival.png": "/YDP/static/media/carnival.edb06a2e137e30574001.png",
+    "static/media/leaf2.png": "/YDP/static/media/leaf2.50708338d5100acb03b7.png",
+    "static/media/leaf7.png": "/YDP/static/media/leaf7.af74eece0de286c75fb1.png",
+    "static/media/SaoTorpes.otf": "/YDP/static/media/SaoTorpes.3e988372fded537f51c0.otf",
+    "static/media/leaf9.png": "/YDP/static/media/leaf9.29607333398831ca8655.png",
+    "static/media/leaf6.png": "/YDP/static/media/leaf6.952fab237080d00e6101.png",
+    "static/media/leaf3.png": "/YDP/static/media/leaf3.fd4785b0725c9682833c.png",
+    "static/media/leaf4.png": "/YDP/static/media/leaf4.906208a8b69b2d89ddfe.png",
+    "static/media/leaf5.png": "/YDP/static/media/leaf5.0c5f535c195d848b57c2.png",
+    "static/media/leaf1.png": "/YDP/static/media/leaf1.6ba903cadb9d67b48c32.png",
+    "index.html": "/YDP/index.html",
+    "main.bc3489c7.css.map": "/YDP/static/css/main.bc3489c7.css.map",
+    "main.c37f5217.js.map": "/YDP/static/js/main.c37f5217.js.map",
+    "787.a8fb6b87.chunk.js.map": "/YDP/static/js/787.a8fb6b87.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bc3489c7.css",
+    "static/js/main.c37f5217.js"
+  ]
+}
